@@ -1,2 +1,2 @@
-# smilevo.mlalal.github.io
+# https://smilevo.github.io/mlalal/
 MLALAL Repository webpage
